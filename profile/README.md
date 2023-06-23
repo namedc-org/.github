@@ -15,3 +15,6 @@ once it sees one it adds the user who triggered the event to our database
 When you lookup a user ID our database automatically adds the username to our database
 
 > [namedc.org](https://namedc.org/)
+
+# API φ(*￣0￣)
+We will soon have a paid api you could use.

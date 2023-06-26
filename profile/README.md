@@ -17,6 +17,11 @@ When you lookup a user ID our database automatically adds the username to our da
 > [namedc.org](https://namedc.org/)
 
 # API φ(*￣0￣)
-We will soon have a paid api you could use.
+
+> API Documentation: https://docs.namedc.org/
+
+> Documentation source: https://github.com/namedc-org/docs
+
+
 
 ![tag](https://www.pngitem.com/pimgs/m/450-4500394_nametag-name-tag-minecraft-craft-hd-png-download.png)
